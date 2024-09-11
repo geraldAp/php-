@@ -33,5 +33,5 @@ if ($e == $f && $c == $d) {
 $a = 1 ;
 
 echo $a++; // echo a after add 1
-echo --$a; // subtract after echo
+echo --$a; // subtract before echo
 
